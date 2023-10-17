@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\bin\Debug\net6.0\Aplicacion Socket Cliente(Csharp).exe
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\bin\Debug\net6.0\Aplicacion Socket Cliente(Csharp).deps.json
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\bin\Debug\net6.0\Aplicacion Socket Cliente(Csharp).runtimeconfig.json
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\bin\Debug\net6.0\Aplicacion Socket Cliente(Csharp).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\bin\Debug\net6.0\Aplicacion Socket Cliente(Csharp).pdb
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\obj\Debug\net6.0\Aplicacion Socket Cliente(Csharp).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\obj\Debug\net6.0\Aplicacion Socket Cliente(Csharp).AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\obj\Debug\net6.0\Aplicacion Socket Cliente(Csharp).AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\obj\Debug\net6.0\Aplicacion Socket Cliente(Csharp).csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\obj\Debug\net6.0\Aplicacion Socket Cliente(Csharp).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\obj\Debug\net6.0\refint\Aplicacion Socket Cliente(Csharp).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\obj\Debug\net6.0\Aplicacion Socket Cliente(Csharp).pdb
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\obj\Debug\net6.0\Aplicacion Socket Cliente(Csharp).genruntimeconfig.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente(Csharp)\Aplicacion Socket Cliente(Csharp)\obj\Debug\net6.0\ref\Aplicacion Socket Cliente(Csharp).dll
